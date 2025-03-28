@@ -48,8 +48,6 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![image](https://github.com/user-attachments/assets/6978ff8e-b729-44d8-8b31-e0a2bb84dc6c)
 
 
-![image]()
-
 ## Output
 
 ### 1. Transient Analysis Output
